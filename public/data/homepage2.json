@@ -1,0 +1,334 @@
+{
+    "hero": {
+      "headline": "Open SaaS Starter Kit and Boilerplate for Next.js",
+      "subHeadline": "Next.js SaaS Boilerplate and Starter Kit designed and built for SaaS startups. It comes with all necessary integrations, pages, and components you need to launch a feature-rich SaaS websites.",
+      "cta": [
+        {
+          "text": "Download Now",
+          "href": "https://nextjstemplates.com/templates/play",
+          "className": "inline-flex items-center justify-center rounded-md bg-white px-7 py-[14px] text-center text-base font-medium text-dark shadow-1 transition duration-300 ease-in-out hover:bg-gray-2"
+        },
+        {
+          "text": "Star on Github",
+          "href": "https://github.com/nextjsTemplates/play-nextjs",
+          "className": "flex items-center gap-4 rounded-md bg-white/[0.12] px-6 py-[14px] text-base font-medium text-white transition duration-300 ease-in-out hover:bg-white hover:text-dark",
+          "icon": {
+            "svg": "M12 0.674805C5.625 0.674805 0.375 5.8498 0.375 12.2998C0.375 17.3998 3.7125 21.7498 8.3625 23.3248C8.9625 23.4373 9.15 23.0623 9.15 22.7998C9.15 22.5373 9.15 21.7873 9.1125 20.7748C5.8875 21.5248 5.2125 19.1998 5.2125 19.1998C4.6875 17.8873 3.9 17.5123 3.9 17.5123C2.85 16.7623 3.9375 16.7623 3.9375 16.7623C5.1 16.7998 5.7375 17.9623 5.7375 17.9623C6.75 19.7623 8.475 19.2373 9.1125 18.8998C9.225 18.1498 9.525 17.6248 9.8625 17.3248C7.3125 17.0623 4.575 16.0498 4.575 11.6248C4.575 10.3498 5.0625 9.3373 5.775 8.5498C5.6625 8.2873 5.25 7.0873 5.8875 5.4748C5.8875 5.4748 6.9 5.1748 9.1125 6.6748C10.05 6.4123 11.025 6.2623 12.0375 6.2623C13.05 6.2623 14.0625 6.3748 14.9625 6.6748C17.175 5.2123 18.15 5.4748 18.15 5.4748C18.7875 7.0498 18.4125 8.2873 18.2625 8.5498C19.0125 9.3373 19.4625 10.3873 19.4625 11.6248C19.4625 16.0498 16.725 17.0623 14.175 17.3248C14.5875 17.6998 14.9625 18.4498 14.9625 19.4998C14.9625 21.0748 14.925 22.3123 14.925 22.6873C14.925 22.9873 15.15 23.3248 15.7125 23.2123C20.2875 21.6748 23.625 17.3623 23.625 12.2248C23.5875 5.8498 18.375 0.674805 12 0.674805Z"
+          }
+        }
+      ]
+    },
+    "features" : {
+        "section" : {
+            "title" : "xyz",
+            "subtitle" : "sssss",
+            "paragraph" : "lorem ipsum lorem naindindiasdin"
+        },
+        "featuresData" : [
+            {
+                "id": 1,
+                "title": "Feature One",
+                "description": "Description for feature one.",
+                "icon": {
+                    "width": "35",
+                    "height": "35",
+                    "viewBox": "0 0 52 52",
+                    "fill": "none",
+                    "xmlns": "http://www.w3.org/2000/svg",
+                    "path": {
+                    "d": "M44.9313 11.7H38.9188C40.5438 10.9687 41.7626 9.99374 42.2501 8.69374C42.9001 6.98749 42.2501 5.19999 40.3001 3.33124C38.1876 1.29999 35.9938 0.568738 33.8001 1.13749C29.9813 2.11249 27.4626 7.06874 26.2438 9.99374C25.1063 7.06874 22.5876 2.11249 18.6876 1.13749C16.4938 0.568738 14.3001 1.29999 12.1876 3.33124C10.2376 5.19999 9.5876 6.98749 10.2376 8.69374C10.7251 9.99374 12.0251 10.9687 13.5688 11.7H7.06885C5.0376 11.7 3.4126 13.325 3.4126 15.3562V21.5312C3.4126 23.5625 5.0376 25.1875 7.06885 25.1875H7.71885V46.2312C7.71885 48.8312 9.83135 51.025 12.5126 51.025H40.1376C42.7376 51.025 44.9313 48.9125 44.9313 46.2312V25.1875C46.9626 25.1875 48.5876 23.5625 48.5876 21.5312V15.3562C48.5063 13.325 46.8813 11.7 44.9313 11.7ZM34.5313 3.98124C34.7751 3.89999 35.0188 3.89999 35.1813 3.89999C36.1563 3.89999 37.2126 4.38749 38.2688 5.52499C38.7563 6.01249 39.8126 7.06874 39.5688 7.79999C39.0001 9.34374 33.9626 10.6437 28.9251 11.05C30.0626 8.36874 32.1751 4.54999 34.5313 3.98124ZM13.0001 7.71874C12.7563 6.98749 13.8126 5.93124 14.3001 5.44374C15.4376 4.38749 16.4126 3.81874 17.3876 3.81874C17.6313 3.81874 17.8751 3.81874 18.0376 3.89999C20.4751 4.54999 22.5063 8.28749 23.6438 10.9687C18.6063 10.5625 13.5688 9.26249 13.0001 7.71874ZM42.0063 46.2312C42.0063 47.2875 41.1126 48.1812 40.0563 48.1812H12.4313C11.3751 48.1812 10.4813 47.2875 10.4813 46.2312V25.1875H41.9251V46.2312H42.0063ZM45.6626 21.5312C45.6626 22.0187 45.3376 22.3437 44.8501 22.3437H7.06885C6.6626 22.3437 6.25635 22.0187 6.25635 21.5312V15.3562C6.25635 14.95 6.6626 14.5437 7.06885 14.5437H44.8501C45.2563 14.5437 45.6626 14.8687 45.6626 15.3562V21.5312Z",
+                    "fill": "white"
+                    }
+            
+                }
+            },
+            {
+                "id": 1,
+                "title": "Feature One",
+                "description": "Description for feature one.",
+                "icon": {
+                    "width": "35",
+                    "height": "35",
+                    "viewBox": "0 0 52 52",
+                    "fill": "none",
+                    "xmlns": "http://www.w3.org/2000/svg",
+                    "path": {
+                    "d": "M44.9313 11.7H38.9188C40.5438 10.9687 41.7626 9.99374 42.2501 8.69374C42.9001 6.98749 42.2501 5.19999 40.3001 3.33124C38.1876 1.29999 35.9938 0.568738 33.8001 1.13749C29.9813 2.11249 27.4626 7.06874 26.2438 9.99374C25.1063 7.06874 22.5876 2.11249 18.6876 1.13749C16.4938 0.568738 14.3001 1.29999 12.1876 3.33124C10.2376 5.19999 9.5876 6.98749 10.2376 8.69374C10.7251 9.99374 12.0251 10.9687 13.5688 11.7H7.06885C5.0376 11.7 3.4126 13.325 3.4126 15.3562V21.5312C3.4126 23.5625 5.0376 25.1875 7.06885 25.1875H7.71885V46.2312C7.71885 48.8312 9.83135 51.025 12.5126 51.025H40.1376C42.7376 51.025 44.9313 48.9125 44.9313 46.2312V25.1875C46.9626 25.1875 48.5876 23.5625 48.5876 21.5312V15.3562C48.5063 13.325 46.8813 11.7 44.9313 11.7ZM34.5313 3.98124C34.7751 3.89999 35.0188 3.89999 35.1813 3.89999C36.1563 3.89999 37.2126 4.38749 38.2688 5.52499C38.7563 6.01249 39.8126 7.06874 39.5688 7.79999C39.0001 9.34374 33.9626 10.6437 28.9251 11.05C30.0626 8.36874 32.1751 4.54999 34.5313 3.98124ZM13.0001 7.71874C12.7563 6.98749 13.8126 5.93124 14.3001 5.44374C15.4376 4.38749 16.4126 3.81874 17.3876 3.81874C17.6313 3.81874 17.8751 3.81874 18.0376 3.89999C20.4751 4.54999 22.5063 8.28749 23.6438 10.9687C18.6063 10.5625 13.5688 9.26249 13.0001 7.71874ZM42.0063 46.2312C42.0063 47.2875 41.1126 48.1812 40.0563 48.1812H12.4313C11.3751 48.1812 10.4813 47.2875 10.4813 46.2312V25.1875H41.9251V46.2312H42.0063ZM45.6626 21.5312C45.6626 22.0187 45.3376 22.3437 44.8501 22.3437H7.06885C6.6626 22.3437 6.25635 22.0187 6.25635 21.5312V15.3562C6.25635 14.95 6.6626 14.5437 7.06885 14.5437H44.8501C45.2563 14.5437 45.6626 14.8687 45.6626 15.3562V21.5312Z",
+                    "fill": "white"
+                    }
+            
+                }
+            }
+        ]
+
+        
+
+    },
+
+    "about": {
+          "title": "SOmething is there niqq.",
+          "description": "The main thrust is to focus on educating attendees on how to best protect highly vulnerable business applications with babsubdfuasdbnasdn and roundtables led by subject matter experts. The main thrust is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel.",
+          "cta": {
+            "text": "PRESSSSS !!",
+            "href": "/#"
+          },
+          "experience": {
+            "years": "69",
+            "title": "We have",
+            "description": "Years of wasting"
+          }
+        },
+
+    "callToAction": {
+            "heading": {
+                "part1": "What Are You Looking For?",
+                "part2": "Get Started Now"
+            },
+            "description": "There are many variations of passages of Lorem Ipsum but the majority have suffered in some form.",
+            "ctaButton": {
+                "href": "/",
+                "text": "Start using MEEE"
+            }
+        },
+    "pricing": {
+        "subtitle": "Pricing Table",
+        "title": "Our Pricing Plan",
+        "paragraph": "There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form.",
+        "pricingData": [
+        {
+            "id": "price_1NQk5TLtGdPVhGLecVfQ7mn0",
+            "unit_amount": 10000,
+            "nickname": "Basic",
+            "offers": [
+            "1 User",
+            "All UI components",
+            "Lifetime access",
+            "Free updates",
+            "Use on 1 (one) project",
+            "3 Months support"
+            ]
+        },
+        {
+            "id": "price_1NQk5TLtGdPVhGLecVfQ7mn1",
+            "unit_amount": 20000,
+            "nickname": "Standard",
+            "offers": [
+            "5 Users",
+            "All UI components",
+            "Lifetime access",
+            "Free updates",
+            "Use on 3 (three) projects",
+            "69 Months support"
+            ]
+        },
+        {
+            "id": "price_1NQk5TLtGdPVhGLecVfQ7mn2",
+            "unit_amount": 30000,
+            "nickname": "Premium",
+            "offers": [
+            "Unlimited Users",
+            "All UI components",
+            "Lifetime access",
+            "Free updates",
+            "Use on unlimited projects",
+            "12 Months support"
+            ]
+        }
+        ]
+    },
+    "testimonial" : {
+        "title": "What our Client Say",
+        "subtitle": "Testimonials",
+        "paragraph": "There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form.",
+        "testimonials": [
+          {
+            "id": 1,
+            "name": "ATUL PATHRIA",
+            "designation": "Founder @ Rolex",
+            "content": "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+            "image": "/images/testimonials/author-01.png",
+            "star": 6
+          },
+          {
+            "id": 2,
+            "name": "Margin Gesmu",
+            "designation": "Founder @ UI Hunter",
+            "content": "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+            "image": "/images/testimonials/author-02.png",
+            "star": 5
+          },
+          {
+            "id": 3,
+            "name": "William Smith",
+            "designation": "Founder @ Trorex",
+            "content": "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+            "image": "/images/testimonials/author-03.png",
+            "star": 5
+          }
+        ]
+      },
+      
+    "FAQ" : {
+            "sectionTitle": {
+              "subtitle": "FAQ",
+              "title": "Any Questions? Answered",
+              "paragraph": "There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+            },  
+        "faq": [
+    {
+      "question": "How to use TailGrids?",
+      "answer": "It takes 2-3 weeks to get your first blog post ready. That includes the in-depth research & creation of your monthly content marketing strategy that we do before writing your first blog post, Ipsum available."
+    },
+    {
+      "question": "How to download icons from LineIcons?",
+      "answer": "It takes 2-3 weeks to get your first blog post ready. That includes the in-depth research & creation of your monthly content marketing strategy that we do before writing your first blog post, Ipsum available."
+    },
+    {
+      "question": "Is GrayGrids part of UIdeck?",
+      "answer": "It takes 2-3 weeks to get your first blog post ready. That includes the in-depth research & creation of your monthly content marketing strategy that we do before writing your first blog post, Ipsum available."
+    },
+    {
+      "question": "Can I use this template for commercial project?",
+      "answer": "It takes 2-3 weeks to get your first blog post ready. That includes the in-depth research & creation of your monthly content marketing strategy that we do before writing your first blog post, Ipsum available."
+    },
+    {
+      "question": "Do you have plan to releasing Play Pro?",
+      "answer": "It takes 2-3 weeks to get your first blog post ready. That includes the in-depth research & creation of your monthly content marketing strategy that we do before writing your first blog post, Ipsum available."
+    },
+    {
+      "question": "Where and how to host this template?",
+      "answer": "It takes 2-3 weeks to get your first blog post ready. That includes the in-depth research & creation of your monthly content marketing strategy that we do before writing your first blog post, Ipsum available."
+    }
+  ]
+},
+
+    "Team" : {
+        "sectionTitle": {
+          "subtitle": "Our Team",
+          "title": "Meet Our Team",
+          "paragraph": "There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+        },
+        "team": [
+          {
+            "id": 1,
+            "name": "Adveen Desuza",
+            "designation": "UI Designer",
+            "image": "/images/team/team-01.png",
+            "facebookLink": "/#",
+            "twitterLink": "/#",
+            "instagramLink": "/#"
+          },
+          {
+            "id": 2,
+            "name": "Jezmin",
+            "designation": "Product Designer",
+            "image": "/images/team/team-02.png",
+            "facebookLink": "/#",
+            "twitterLink": "/#",
+            "instagramLink": "/#"
+          },
+          {
+            "id": 3,
+            "name": "Andrieo Gloree",
+            "designation": "App Developer",
+            "image": "/images/team/team-03.png",
+            "facebookLink": "/#",
+            "twitterLink": "/#",
+            "instagramLink": "/#"
+          },
+          {
+            "id": 4,
+            "name": "Jackie Sanders",
+            "designation": "Content Writer",
+            "image": "/images/team/team-04.png",
+            "facebookLink": "/#",
+            "twitterLink": "/#",
+            "instagramLink": "/#"
+          }
+        ]
+        
+      },
+    "contact": {
+          "sectionTitle": {
+            "subtitle": "CONTACT US",
+            "title": "Let’s talk about your problem.",
+            "paragraph": "There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          },
+          "location": {
+            "icon": "path/to/location-icon.svg",
+            "title": "Our Location",
+            "address": "401 Broadway, 24th Floor, Orchard Cloud View, London"
+          },
+          "help": {
+            "icon": "path/to/help-icon.svg",
+            "title": "How Can We Help?",
+            "email1": "info@yourdomain.com",
+            "email2": "contact@yourdomain.com"
+          }
+        },
+    "clients": 
+        [
+            {
+              "id": 1,
+              "title": "GrayGrids",
+              "logo": "/images/brands/graygrids.svg",
+              "logoWhite": "/images/brands/graygrids-white.svg",
+              "link": "https://graygrids.com/"
+            },
+            {
+              "id": 2,
+              "title": "Line",
+              "logo": "/images/brands/lineicons.svg",
+              "logoWhite": "/images/brands/lineicons-white.svg",
+              "link": "https://lineicons.com/"
+            },
+            {
+              "id": 3,
+              "title": "Uideck",
+              "logo": "/images/brands/uideck.svg",
+              "logoWhite": "/images/brands/uideck-white.svg",
+              "link": "https://uideck.com/"
+            },
+            {
+              "id": 4,
+              "title": "AyroUI",
+              "logo": "/images/brands/ayroui.svg",
+              "logoWhite": "/images/brands/ayroui-white.svg",
+              "link": "https://ayroui.com/"
+            },
+            {
+              "id": 5,
+              "title": "TailGrids",
+              "logo": "/images/brands/tailgrids.svg",
+              "logoWhite": "/images/brands/tailgrids-white.svg",
+              "link": "https://tailgrids.com/"
+            }
+        ],
+    "footer" : {
+        "logo": "/images/logo/logo-white.svg",
+        "description": "We create digital experiences for brands and companies by using technology.",
+        "socialLinks": [
+          {
+            "ariaLabel": "social link",
+            "url": "/#",
+            "svg": "<svg width='22' height='22' viewBox='0 0 22 22' fill='none' xmlns='http://www.w3.org/2000/svg' class='fill-current'><path d='M16.294 8.86875H14.369H13.6815V8.18125V6.05V5.3625H14.369H15.8128C16.1909 5.3625 16.5003 5.0875 16.5003 4.675V1.03125C16.5003 0.653125 16.2253 0.34375 15.8128 0.34375H13.3034C10.5878 0.34375 8.69714 2.26875 8.69714 5.12187V8.1125V8.8H8.00964H5.67214C5.19089 8.8 4.74402 9.17812 4.74402 9.72812V12.2031C4.74402 12.6844 5.12214 13.1313 5.67214 13.1313H7.94089H8.62839V13.8188V20.7281C8.62839 21.2094 9.00652 21.6562 9.55652 21.6562H12.7878C12.994 21.6562 13.1659 21.5531 13.3034 21.4156C13.4409 21.2781 13.544 21.0375 13.544 20.8312V13.8531V13.1656H14.2659H15.8128C16.2596 13.1656 16.6034 12.8906 16.6721 12.4781V12.4438V12.4094L17.1534 10.0375C17.1878 9.79688 17.1534 9.52187 16.9471 9.24687C16.8784 9.075 16.569 8.90312 16.294 8.86875Z'/></svg>"
+          },
+          {
+            "ariaLabel": "social link",
+            "url": "/#",
+            "svg": "<svg width='22' height='22' viewBox='0 0 22 22' fill='none' xmlns='http://www.w3.org/2000/svg' class='fill-current'><path d='M20.1236 5.91236C20.2461 5.76952 20.0863 5.58286 19.905 5.64972C19.5004 5.79896 19.1306 5.8974 18.5837 5.95817C19.2564 5.58362 19.5693 5.04828 19.8237 4.39259C19.885 4.23443 19.7 4.09092 19.5406 4.16647C18.8931 4.47345 18.1945 4.70121 17.4599 4.83578C16.7338 4.11617 15.6988 3.6665 14.5539 3.6665C12.3554 3.6665 10.5725 5.32454 10.5725 7.36908C10.5725 7.65933 10.6081 7.94206 10.6752 8.21276C7.51486 8.06551 4.6968 6.71359 2.73896 4.64056C2.60477 4.49848 2.36128 4.51734 2.27772 4.69063C2.05482 5.15296 1.93056 5.66584 1.93056 6.20582C1.93056 7.49014 2.6332 8.62331 3.70132 9.28732C3.22241 9.27293 2.76441 9.17961 2.34234 9.02125C2.13684 8.94416 1.90127 9.07964 1.92888 9.28686C2.14084 10.8781 3.42915 12.1909 5.09205 12.5011C4.75811 12.586 4.40639 12.6311 4.04253 12.6311C3.95431 12.6311 3.86685 12.6284 3.78019 12.6231C3.55967 12.6094 3.38044 12.8067 3.47499 12.9954C4.09879 14.2404 5.44575 15.1096 7.0132 15.1367C5.65077 16.13 3.93418 16.7218 2.06882 16.7218C1.83882 16.7218 1.74015 17.0175 1.9442 17.1178C3.52016 17.8924 5.31487 18.3332 7.22182 18.3332C14.545 18.3332 18.549 12.6914 18.549 7.79843C18.549 7.63827 18.545 7.47811 18.5377 7.31945C19.1321 6.92012 19.6664 6.44528 20.1236 5.91236Z'/></svg>"
+          },
+          {
+            "ariaLabel": "social link",
+            "url": "/#",
+            "svg": "<svg width='22' height='22' viewBox='0 0 22 22' fill='none' xmlns='http://www.w3.org/2000/svg' class='fill-current'><path d='M11.0297 14.4305C12.9241 14.4305 14.4598 12.8948 14.4598 11.0004C14.4598 9.10602 12.9241 7.57031 11.0297 7.57031C9.13529 7.57031 7.59958 9.10602 7.59958 11.0004C7.59958 12.8948 9.13529 14.4305 11.0297 14.4305Z'/><path d='M14.7554 1.8335H7.24463C4.25807 1.8335 1.83334 4.25823 1.83334 7.24479V14.6964C1.83334 17.7421 4.25807 20.1668 7.24463 20.1668H14.6962C17.7419 20.1668 20.1667 17.7421 20.1667 14.7555V7.24479C20.1667 4.25823 17.7419 1.8335 14.7554 1.8335ZM11.0296 15.4948C8.51614 15.4948 6.53496 13.4545 6.53496 11.0002C6.53496 8.54586 8.54571 6.50554 11.0296 6.50554C13.5135 6.50554 15.4957 8.54586 15.4957 11.0002C15.4957 13.4545 13.5135 15.4948 11.0296 15.4948ZM15.7356 11.0002C15.7356 13.3174 13.7522 15.2746 11.0296 15.2746C8.30709 15.2746 6.31956 13.3174 6.31956 11.0002C6.31956 8.68304 8.30709 6.72602 11.0296 6.72602C13.7522 6.72602 15.7356 8.68304 15.7356 11.0002Z'/></svg>"
+          }
+        ],
+        "copyright": "{year} Your Company. All rights reserved."
+      }
+      
+        
+}
+        
+
+  
