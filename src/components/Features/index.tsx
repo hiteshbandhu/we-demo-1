@@ -2,7 +2,6 @@
 import React, { useEffect, useState } from "react";
 import SectionTitle from "../Common/SectionTitle";
 import SingleFeature from "./SingleFeature";
-import Marquee from "react-fast-marquee"; // Import the library
 
 const Features = () => {
   const [featuresData, setFeaturesData] = useState(null);
@@ -36,20 +35,14 @@ const Features = () => {
           paragraph={featuresData.section.paragraph}
         />
 
-        <div className="relative">
-          <Marquee
-            gradient={false} // Disables the gradient effect on the edges
-            speed={50} // Adjust the speed of the marquee
-          >
-            {featuresData.featuresData.map((feature) => (
-              <div
-                key={feature.id}
-                className="w-full md:w-1/2 lg:w-1/3 flex-shrink-0 px-4"
-              >
-                <SingleFeature feature={feature} />
-              </div>
-            ))}
-          </Marquee>
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
+          {featuresData.featuresData.map((feature) => (
+            <div
+              key={feature.id}
+              className="flex justify-center items-center"            >
+              <SingleFeature feature={feature} />
+            </div>
+          ))}
         </div>
       </div>
     </section>

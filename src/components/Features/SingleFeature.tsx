@@ -4,7 +4,7 @@ const SingleFeature = ({ feature }) => {
   const { icon, title, description } = feature;
 
   return (
-    <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden transition-all duration-300 hover:shadow-lg flex flex-col items-center p-6 text-center">
+    <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden transition-all duration-300 hover:shadow-lg flex flex-col items-center p-6 text-center h-2/3">
       <div className="icon-container mb-4">
         <svg
           width={icon.width}
