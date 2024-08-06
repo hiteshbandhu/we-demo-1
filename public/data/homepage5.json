@@ -1,0 +1,287 @@
+{
+    "hero": {
+      "headline": "Transform Your Business with AI-Powered Websites. Effortlessly.",
+      "subHeadline": "We.trsfrm helps non-techy businesses and individuals build stunning, personalized websites in minutes, using the power of generative AI. No coding required.",
+      "cta": [
+        {
+          "text": "Get Started for Free",
+          "href": "#pricing",
+          "className": "primary-button",
+          "icon": {
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"5\" y1=\"12\" x2=\"19\" y2=\"12\"></line><polyline points=\"12 5 19 12 12 19\"></polyline></svg>"
+          }
+        }
+      ]
+    },
+    "features": {
+      "section": {
+        "title": "Key Features",
+        "subtitle": "What We Offer",
+        "paragraph": "We.trsfrm offers a suite of powerful features designed to make website creation a breeze, even if you've never written a line of code."
+      },
+      "featuresData": [
+        {
+          "id": 1,
+          "title": "AI-Powered Personalization",
+          "description": "Our AI algorithms tailor your website content to your specific needs and target audience, ensuring maximum impact and conversion rates.",
+          "icon": {
+            "width": "24",
+            "height": "24",
+            "viewBox": "0 0 24 24",
+            "fill": "none",
+            "xmlns": "http://www.w3.org/2000/svg",
+            "path": {
+              "d": "M20 21V19C20 17.9 19.1 17 18 17H6C4.9 17 4 17.9 4 19V21M12 3C7.03 3 3 7.03 3 12S7.03 21 12 21 21 16.97 21 12 16.97 3 12 3ZM14 13H10V11H14V13Z",
+              "fill": "currentColor"
+            }
+          }
+        },
+        {
+          "id": 2,
+          "title": "Simple Questionnaire-Based Setup",
+          "description": "Just answer a few simple questions and our AI will generate a complete website, ready to go live in minutes.",
+          "icon": {
+            "width": "24",
+            "height": "24",
+            "viewBox": "0 0 24 24",
+            "fill": "none",
+            "xmlns": "http://www.w3.org/2000/svg",
+            "path": {
+              "d": "M9 17H7V11H9V17ZM13 17H11V7H13V17ZM17 17H15V13H17V17Z",
+              "fill": "currentColor"
+            }
+          }
+        },
+        {
+          "id": 3,
+          "title": "Easy Customization",
+          "description": "Fine-tune your website content and design with our intuitive drag-and-drop interface. No coding skills needed.",
+          "icon": {
+            "width": "24",
+            "height": "24",
+            "viewBox": "0 0 24 24",
+            "fill": "none",
+            "xmlns": "http://www.w3.org/2000/svg",
+            "path": {
+              "d": "M3 17.25V21H6.75L17.81 9.94L14.06 6.19L3 17.25ZM20.71 7.04C21.1 6.65 21.1 6.02 20.71 5.63L18.37 3.29C17.98 2.9 17.35 2.9 16.96 3.29L15.13 5.12L18.88 8.87L20.71 7.04Z",
+              "fill": "currentColor"
+            }
+          }
+        },
+        {
+          "id": 4,
+          "title": "Fast and Reliable",
+          "description": "We leverage cutting-edge technology to ensure your website is fast, secure, and always available.",
+          "icon": {
+            "width": "24",
+            "height": "24",
+            "viewBox": "0 0 24 24",
+            "fill": "none",
+            "xmlns": "http://www.w3.org/2000/svg",
+            "path": {
+              "d": "M13 20L11 20L11 8L13 8L13 20ZM17 20L15 20L15 4L17 4L17 20Z",
+              "fill": "currentColor"
+            }
+          }
+        }
+      ]
+    },
+    "about": {
+      "title": "About We.trsfrm",
+      "description": "We.trsfrm was founded on the belief that everyone should have access to a beautiful, professional online presence, regardless of their technical skills.  We're committed to leveraging the power of AI to make website creation accessible and affordable for all.",
+      "cta": {
+        "text": "Learn More",
+        "href": "#contact"
+      },
+      "experience": {
+        "years": "New on the scene, but making waves!",
+        "title": "Driven by Innovation",
+        "description": "We're a young company with a passion for pushing the boundaries of what's possible with AI.  We're constantly learning and evolving, so we can continue to offer the best possible experience for our users."
+      }
+    },
+    "callToAction": {
+      "heading": {
+        "part1": "Ready to",
+        "part2": "Transform Your Online Presence?"
+      },
+      "description": "Join We.trsfrm today and experience the future of website creation.",
+      "ctaButton": {
+        "href": "#pricing",
+        "text": "Get Started"
+      }
+    },
+    "pricing": {
+      "subtitle": "Pricing Plans",
+      "title": "Choose the Plan That's Right for You",
+      "paragraph": "We offer a range of pricing options to suit every budget and need.",
+      "pricingData": [
+        {
+          "id": "freemium",
+          "unit_amount": 0,
+          "nickname": "Freemium",
+          "offers": [
+            "Basic website generation",
+            "Limited customization options",
+            "We.trsfrm branding",
+            "Access to core features",
+            "Perfect for trying out the platform"
+          ]
+        },
+        {
+          "id": "premium",
+          "unit_amount": 20,
+          "nickname": "Premium",
+          "offers": [
+            "Full website customization",
+            "Removal of We.trsfrm branding",
+            "Advanced AI features",
+            "Priority support",
+            "Ideal for small businesses and individuals"
+          ]
+        },
+        {
+          "id": "enterprise",
+          "unit_amount": 50,
+          "nickname": "Enterprise",
+          "offers": [
+            "Unlimited websites",
+            "Custom branding and design",
+            "Dedicated account manager",
+            "Premium support",
+            "Tailored solutions for large businesses"
+          ]
+        }
+      ]
+    },
+    "testimonial": {
+      "title": "Testimonials",
+      "subtitle": "What Our Users Are Saying",
+      "paragraph": "Don't just take our word for it - see what our satisfied customers have to say about We.trsfrm.",
+      "testimonials": [
+        {
+          "id": 1,
+          "name": "John Doe",
+          "designation": "Small Business Owner",
+          "content": "I was amazed at how easy it was to create a professional website with We.trsfrm.  I'm not tech-savvy at all, but the questionnaire-based setup made it a breeze.  I highly recommend it!",
+          "image": "https://randomuser.me/api/portraits/men/1.jpg",
+          "star": 5
+        },
+        {
+          "id": 2,
+          "name": "Jane Smith",
+          "designation": "Freelancer",
+          "content": "We.trsfrm has been a game-changer for my business.  I now have a beautiful website that perfectly represents my brand, and I didn't have to spend a fortune on a web developer.",
+          "image": "https://randomuser.me/api/portraits/women/2.jpg",
+          "star": 5
+        },
+        {
+          "id": 3,
+          "name": "David Lee",
+          "designation": "Startup Founder",
+          "content": "I was skeptical at first, but We.trsfrm exceeded my expectations.  The AI-powered personalization is incredible, and the website looks amazing.  I'm already seeing an increase in leads!",
+          "image": "https://randomuser.me/api/portraits/men/3.jpg",
+          "star": 4
+        },
+        {
+          "id": 4,
+          "name": "Sarah Johnson",
+          "designation": "Marketing Manager",
+          "content": "We.trsfrm has saved me so much time and money.  I can now create landing pages and marketing materials in minutes, without having to rely on our busy design team.",
+          "image": "https://randomuser.me/api/portraits/women/4.jpg",
+          "star": 5
+        },
+        {
+          "id": 5,
+          "name": "Michael Brown",
+          "designation": "Entrepreneur",
+          "content": "I'm impressed with the speed and reliability of We.trsfrm.  My website is always up and running, and I've never had any issues.  I highly recommend it to any business owner looking for a hassle-free website solution.",
+          "image": "https://randomuser.me/api/portraits/men/5.jpg",
+          "star": 5
+        }
+      ]
+    },
+    "FAQ": {
+      "sectionTitle": {
+        "subtitle": "Frequently Asked Questions",
+        "title": "Your Questions, Answered",
+        "paragraph": "We've compiled a list of our most frequently asked questions to help you learn more about We.trsfrm."
+      },
+      "faq": [
+        {
+          "question": "What is We.trsfrm?",
+          "answer": "We.trsfrm is an AI-powered website creation platform that allows non-techy businesses and individuals to build stunning, personalized websites in minutes."
+        },
+        {
+          "question": "How does it work?",
+          "answer": "Simply answer a few simple questions about your business and our AI will generate a complete website, ready to go live."
+        },
+        {
+          "question": "Do I need any coding skills?",
+          "answer": "No, you don't need any coding skills to use We.trsfrm.  Our intuitive drag-and-drop interface makes it easy to customize your website content and design."
+        },
+        {
+          "question": "How much does it cost?",
+          "answer": "We offer a range of pricing options to suit every budget and need, including a free plan.  See our pricing page for more details."
+        },
+        {
+          "question": "Can I customize my website?",
+          "answer": "Yes, you can customize your website content and design with our intuitive drag-and-drop interface."
+        },
+        {
+          "question": "What kind of websites can I create?",
+          "answer": "You can create a variety of websites with We.trsfrm, including landing pages, marketing websites, and e-commerce stores."
+        },
+        {
+          "question": "What if I need help?",
+          "answer": "We offer comprehensive support documentation and a dedicated support team to help you with any questions you may have."
+        },
+        {
+          "question": "Is We.trsfrm secure?",
+          "answer": "Yes, We.trsfrm is built on a secure platform and we take data privacy very seriously."
+        }
+      ]
+    },
+    "Team": {
+      "sectionTitle": {
+        "subtitle": "Meet the Team",
+        "title": "The People Behind We.trsfrm",
+        "paragraph": "We're a passionate team of innovators and creators, dedicated to making website creation accessible for everyone."
+      },
+      "team": [
+        {
+          "id": 1,
+          "name": "Hitesh",
+          "designation": "Founder & CEO",
+          "image": "https://randomuser.me/api/portraits/men/7.jpg",
+          "facebookLink": "#",
+          "twitterLink": "#",
+          "instagramLink": "#"
+        }
+      ]
+    },
+    "contact": {
+      "sectionTitle": {
+        "subtitle": "Get in Touch",
+        "title": "Contact Us",
+        "paragraph": "We'd love to hear from you!  Whether you have a question, feedback, or just want to say hello, please don't hesitate to reach out."
+      },
+      "location": {
+        "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z\"></path><circle cx=\"12\" cy=\"10\" r=\"3\"></circle></svg>",
+        "title": "Location",
+        "address": "Remote - Worldwide"
+      },
+      "help": {
+        "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle><path d=\"M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3\"></path><line x1=\"12\" y1=\"17\" x2=\"12\" y2=\"17\"></line></svg>",
+        "title": "Help",
+        "email1": "support@we.trsfrm",
+        "email2": "info@we.trsfrm"
+      }
+    },
+    "clients": [],
+    "footer": {
+      "logo": "we.trsfrm",
+      "description": "Transform your online presence with the power of AI.",
+      "socialLinks": [],
+      "copyright": "Copyright © 2023 We.trsfrm. All rights reserved."
+    }
+  }

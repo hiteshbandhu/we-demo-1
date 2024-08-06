@@ -7,7 +7,16 @@ const config: Config = {
     "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
-  theme: {},
+  theme: {
+    extend: {
+      colors: {
+        primary: {
+          DEFAULT: '#e16915', // This is the hex value for red-400
+        },
+      },
+    },
+  },
   plugins: [require("tailgrids/plugin")],
 };
+
 export default config;
