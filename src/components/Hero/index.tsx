@@ -60,14 +60,8 @@ const Hero = () => {
             </div>
           </div>
 
-          <div className="w-full px-6">
-            <div
-              className="wow fadeInUp relative z-10 mx-auto max-w-[845px]"
-              data-wow-delay=".25s"
-            >
-              {/* Additional content */}
-            </div>
-          </div>
+          {/* Removed the empty div here */}
+
         </div>
       </div>
     </section>
